@@ -1,0 +1,14 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "files.associations": {
+        "functional": "cpp",
+        "memory_resource": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "type_traits": "cpp",
+        "chrono": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp"
+    }
+}

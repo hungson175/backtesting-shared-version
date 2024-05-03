@@ -1,0 +1,1522 @@
+2024-05-03 22:54:11,654 INFO :: Main application started at 2024-05-03 15:54:11.654560
+2024-05-03 22:54:15,085 INFO :: Creating data set BTCUSDT
+2024-05-03 22:54:15,776 INFO :: Binance BTCUSDT: Collected 1500 initial data from 2024-05-02 14:54:00 to 2024-05-03 15:53:00
+2024-05-03 22:54:15,776 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:15,786 INFO :: Getting most recent data
+2024-05-03 22:54:16,473 INFO :: Pause for 1.1s before request more data (counter spam)
+2024-05-03 22:54:16,474 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:16,478 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:54:18,258 INFO :: Pause for 1.1s before request more data (counter spam)
+2024-05-03 22:54:18,259 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:18,263 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:54:22,551 INFO :: Main application started at 2024-05-03 15:54:22.551886
+2024-05-03 22:54:24,521 INFO :: Getting most recent data
+2024-05-03 22:54:25,001 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:25,005 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:54:25,005 INFO :: Getting older data
+2024-05-03 22:54:25,696 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-05-01 13:54:00 to 2024-05-02 14:53:00
+2024-05-03 22:54:25,696 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:27,504 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-30 12:54:00 to 2024-05-01 13:53:00
+2024-05-03 22:54:27,505 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:29,315 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-29 11:54:00 to 2024-04-30 12:53:00
+2024-05-03 22:54:29,315 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:31,131 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-28 10:54:00 to 2024-04-29 11:53:00
+2024-05-03 22:54:31,131 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:32,944 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-27 09:54:00 to 2024-04-28 10:53:00
+2024-05-03 22:54:32,944 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:34,761 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-26 08:54:00 to 2024-04-27 09:53:00
+2024-05-03 22:54:34,762 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:36,585 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:36,618 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-25 07:54:00 to 2024-04-26 08:53:00
+2024-05-03 22:54:36,618 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:36,633 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:54:38,422 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-24 06:54:00 to 2024-04-25 07:53:00
+2024-05-03 22:54:38,422 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:40,239 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-23 05:54:00 to 2024-04-24 06:53:00
+2024-05-03 22:54:40,239 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:42,063 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-22 04:54:00 to 2024-04-23 05:53:00
+2024-05-03 22:54:42,063 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:43,887 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-21 03:54:00 to 2024-04-22 04:53:00
+2024-05-03 22:54:43,887 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:45,742 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-20 02:54:00 to 2024-04-21 03:53:00
+2024-05-03 22:54:45,742 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:47,659 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-19 01:54:00 to 2024-04-20 02:53:00
+2024-05-03 22:54:47,659 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:49,515 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:49,552 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-18 00:54:00 to 2024-04-19 01:53:00
+2024-05-03 22:54:49,552 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:49,571 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:54:51,372 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-16 23:54:00 to 2024-04-18 00:53:00
+2024-05-03 22:54:51,372 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:53,206 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-15 22:54:00 to 2024-04-16 23:53:00
+2024-05-03 22:54:53,206 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:55,040 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-14 21:54:00 to 2024-04-15 22:53:00
+2024-05-03 22:54:55,041 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:56,891 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-13 20:54:00 to 2024-04-14 21:53:00
+2024-05-03 22:54:56,891 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:54:58,739 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-12 19:54:00 to 2024-04-13 20:53:00
+2024-05-03 22:54:58,740 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:00,593 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-11 18:54:00 to 2024-04-12 19:53:00
+2024-05-03 22:55:00,594 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:02,439 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:02,496 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-10 17:54:00 to 2024-04-11 18:53:00
+2024-05-03 22:55:02,497 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:02,525 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:55:04,355 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-09 16:54:00 to 2024-04-10 17:53:00
+2024-05-03 22:55:04,356 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:06,200 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-08 15:54:00 to 2024-04-09 16:53:00
+2024-05-03 22:55:06,200 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:08,059 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-07 14:54:00 to 2024-04-08 15:53:00
+2024-05-03 22:55:08,059 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:09,897 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-06 13:54:00 to 2024-04-07 14:53:00
+2024-05-03 22:55:09,897 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:11,745 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-05 12:54:00 to 2024-04-06 13:53:00
+2024-05-03 22:55:11,746 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:13,631 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-04 11:54:00 to 2024-04-05 12:53:00
+2024-05-03 22:55:13,631 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:15,489 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:15,553 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-03 10:54:00 to 2024-04-04 11:53:00
+2024-05-03 22:55:15,554 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:15,590 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:55:17,368 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-02 09:54:00 to 2024-04-03 10:53:00
+2024-05-03 22:55:17,368 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:19,217 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-04-01 08:54:00 to 2024-04-02 09:53:00
+2024-05-03 22:55:19,218 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:21,071 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-31 07:54:00 to 2024-04-01 08:53:00
+2024-05-03 22:55:21,072 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:22,933 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-30 06:54:00 to 2024-03-31 07:53:00
+2024-05-03 22:55:22,934 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:24,806 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-29 05:54:00 to 2024-03-30 06:53:00
+2024-05-03 22:55:24,807 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:26,668 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-28 04:54:00 to 2024-03-29 05:53:00
+2024-05-03 22:55:26,668 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:28,531 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:28,608 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-27 03:54:00 to 2024-03-28 04:53:00
+2024-05-03 22:55:28,608 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:28,654 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:55:30,440 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-26 02:54:00 to 2024-03-27 03:53:00
+2024-05-03 22:55:30,440 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:32,318 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-25 01:54:00 to 2024-03-26 02:53:00
+2024-05-03 22:55:32,319 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:34,182 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-24 00:54:00 to 2024-03-25 01:53:00
+2024-05-03 22:55:34,183 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:36,043 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-22 23:54:00 to 2024-03-24 00:53:00
+2024-05-03 22:55:36,043 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:37,958 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-21 22:54:00 to 2024-03-22 23:53:00
+2024-05-03 22:55:37,958 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:39,839 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-20 21:54:00 to 2024-03-21 22:53:00
+2024-05-03 22:55:39,839 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:41,710 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:41,793 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-19 20:54:00 to 2024-03-20 21:53:00
+2024-05-03 22:55:41,793 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:41,847 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:55:43,621 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-18 19:54:00 to 2024-03-19 20:53:00
+2024-05-03 22:55:43,621 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:45,505 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-17 18:54:00 to 2024-03-18 19:53:00
+2024-05-03 22:55:45,506 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:47,371 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-16 17:54:00 to 2024-03-17 18:53:00
+2024-05-03 22:55:47,371 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:49,242 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-15 16:54:00 to 2024-03-16 17:53:00
+2024-05-03 22:55:49,242 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:51,111 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-14 15:54:00 to 2024-03-15 16:53:00
+2024-05-03 22:55:51,112 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:52,981 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-13 14:54:00 to 2024-03-14 15:53:00
+2024-05-03 22:55:52,981 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:54,856 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:54,947 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-12 13:54:00 to 2024-03-13 14:53:00
+2024-05-03 22:55:54,947 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:55,007 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:55:56,790 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-11 12:54:00 to 2024-03-12 13:53:00
+2024-05-03 22:55:56,791 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:55:58,699 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-10 11:54:00 to 2024-03-11 12:53:00
+2024-05-03 22:55:58,699 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:00,569 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-09 10:54:00 to 2024-03-10 11:53:00
+2024-05-03 22:56:00,569 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:02,447 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-08 09:54:00 to 2024-03-09 10:53:00
+2024-05-03 22:56:02,447 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:04,313 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-07 08:54:00 to 2024-03-08 09:53:00
+2024-05-03 22:56:04,313 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:06,186 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-06 07:54:00 to 2024-03-07 08:53:00
+2024-05-03 22:56:06,187 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:08,069 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:08,170 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-05 06:54:00 to 2024-03-06 07:53:00
+2024-05-03 22:56:08,170 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:08,233 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:56:10,016 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-04 05:54:00 to 2024-03-05 06:53:00
+2024-05-03 22:56:10,016 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:11,933 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-03 04:54:00 to 2024-03-04 05:53:00
+2024-05-03 22:56:11,933 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:13,853 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-02 03:54:00 to 2024-03-03 04:53:00
+2024-05-03 22:56:13,853 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:15,740 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-03-01 02:54:00 to 2024-03-02 03:53:00
+2024-05-03 22:56:15,740 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:17,635 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-29 01:54:00 to 2024-03-01 02:53:00
+2024-05-03 22:56:17,635 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:19,556 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-28 00:54:00 to 2024-02-29 01:53:00
+2024-05-03 22:56:19,556 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:21,442 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:21,552 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-26 23:54:00 to 2024-02-28 00:53:00
+2024-05-03 22:56:21,552 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:21,632 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:56:23,401 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-25 22:54:00 to 2024-02-26 23:53:00
+2024-05-03 22:56:23,402 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:25,300 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-24 21:54:00 to 2024-02-25 22:53:00
+2024-05-03 22:56:25,300 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:27,186 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-23 20:54:00 to 2024-02-24 21:53:00
+2024-05-03 22:56:27,186 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:29,075 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-22 19:54:00 to 2024-02-23 20:53:00
+2024-05-03 22:56:29,075 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:30,976 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-21 18:54:00 to 2024-02-22 19:53:00
+2024-05-03 22:56:30,976 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:32,887 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-20 17:54:00 to 2024-02-21 18:53:00
+2024-05-03 22:56:32,888 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:34,785 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:34,905 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-19 16:54:00 to 2024-02-20 17:53:00
+2024-05-03 22:56:34,905 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:34,997 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:56:36,765 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-18 15:54:00 to 2024-02-19 16:53:00
+2024-05-03 22:56:36,765 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:38,663 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-17 14:54:00 to 2024-02-18 15:53:00
+2024-05-03 22:56:38,663 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:40,557 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-16 13:54:00 to 2024-02-17 14:53:00
+2024-05-03 22:56:40,558 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:42,457 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-15 12:54:00 to 2024-02-16 13:53:00
+2024-05-03 22:56:42,458 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:44,368 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-14 11:54:00 to 2024-02-15 12:53:00
+2024-05-03 22:56:44,369 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:46,266 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-13 10:54:00 to 2024-02-14 11:53:00
+2024-05-03 22:56:46,266 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:48,183 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:48,311 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-12 09:54:00 to 2024-02-13 10:53:00
+2024-05-03 22:56:48,311 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:48,413 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:56:50,189 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-11 08:54:00 to 2024-02-12 09:53:00
+2024-05-03 22:56:50,190 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:52,090 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-10 07:54:00 to 2024-02-11 08:53:00
+2024-05-03 22:56:52,090 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:53,996 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-09 06:54:00 to 2024-02-10 07:53:00
+2024-05-03 22:56:53,997 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:55,940 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-08 05:54:00 to 2024-02-09 06:53:00
+2024-05-03 22:56:55,940 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:57,837 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-07 04:54:00 to 2024-02-08 05:53:00
+2024-05-03 22:56:57,838 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:56:59,741 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-06 03:54:00 to 2024-02-07 04:53:00
+2024-05-03 22:56:59,741 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:01,656 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:01,793 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-05 02:54:00 to 2024-02-06 03:53:00
+2024-05-03 22:57:01,793 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:01,902 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:57:03,684 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-04 01:54:00 to 2024-02-05 02:53:00
+2024-05-03 22:57:03,684 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:05,588 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-03 00:54:00 to 2024-02-04 01:53:00
+2024-05-03 22:57:05,588 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:07,509 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-02-01 23:54:00 to 2024-02-03 00:53:00
+2024-05-03 22:57:07,509 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:09,426 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-31 22:54:00 to 2024-02-01 23:53:00
+2024-05-03 22:57:09,427 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:11,362 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-30 21:54:00 to 2024-01-31 22:53:00
+2024-05-03 22:57:11,362 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:13,267 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-29 20:54:00 to 2024-01-30 21:53:00
+2024-05-03 22:57:13,268 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:15,168 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:15,313 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-28 19:54:00 to 2024-01-29 20:53:00
+2024-05-03 22:57:15,313 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:15,437 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:57:17,226 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-27 18:54:00 to 2024-01-28 19:53:00
+2024-05-03 22:57:17,226 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:19,146 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-26 17:54:00 to 2024-01-27 18:53:00
+2024-05-03 22:57:19,146 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:21,072 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-25 16:54:00 to 2024-01-26 17:53:00
+2024-05-03 22:57:21,073 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:22,993 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-24 15:54:00 to 2024-01-25 16:53:00
+2024-05-03 22:57:22,993 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:24,914 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-23 14:54:00 to 2024-01-24 15:53:00
+2024-05-03 22:57:24,914 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:26,860 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-22 13:54:00 to 2024-01-23 14:53:00
+2024-05-03 22:57:26,860 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:28,786 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:28,939 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-21 12:54:00 to 2024-01-22 13:53:00
+2024-05-03 22:57:28,939 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:29,064 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:57:30,822 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-20 11:54:00 to 2024-01-21 12:53:00
+2024-05-03 22:57:30,822 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:32,731 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-19 10:54:00 to 2024-01-20 11:53:00
+2024-05-03 22:57:32,731 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:34,651 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-18 09:54:00 to 2024-01-19 10:53:00
+2024-05-03 22:57:34,652 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:36,549 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-17 08:54:00 to 2024-01-18 09:53:00
+2024-05-03 22:57:36,550 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:38,497 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-16 07:54:00 to 2024-01-17 08:53:00
+2024-05-03 22:57:38,498 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:40,416 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-15 06:54:00 to 2024-01-16 07:53:00
+2024-05-03 22:57:40,417 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:42,350 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:42,509 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-14 05:54:00 to 2024-01-15 06:53:00
+2024-05-03 22:57:42,509 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:42,630 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:57:44,410 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-13 04:54:00 to 2024-01-14 05:53:00
+2024-05-03 22:57:44,410 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:46,343 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-12 03:54:00 to 2024-01-13 04:53:00
+2024-05-03 22:57:46,343 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:48,278 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-11 02:54:00 to 2024-01-12 03:53:00
+2024-05-03 22:57:48,278 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:50,263 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-10 01:54:00 to 2024-01-11 02:53:00
+2024-05-03 22:57:50,263 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:52,203 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-09 00:54:00 to 2024-01-10 01:53:00
+2024-05-03 22:57:52,204 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:54,159 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-07 23:54:00 to 2024-01-09 00:53:00
+2024-05-03 22:57:54,160 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:56,095 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:56,265 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-06 22:54:00 to 2024-01-07 23:53:00
+2024-05-03 22:57:56,265 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:57:56,418 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:57:58,187 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-05 21:54:00 to 2024-01-06 22:53:00
+2024-05-03 22:57:58,187 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:00,126 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-04 20:54:00 to 2024-01-05 21:53:00
+2024-05-03 22:58:00,126 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:02,064 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-03 19:54:00 to 2024-01-04 20:53:00
+2024-05-03 22:58:02,064 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:04,053 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-02 18:54:00 to 2024-01-03 19:53:00
+2024-05-03 22:58:04,053 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:06,006 INFO :: Binance BTCUSDT: Collected 1500 older data from 2024-01-01 17:54:00 to 2024-01-02 18:53:00
+2024-05-03 22:58:06,006 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:07,964 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-31 16:54:00 to 2024-01-01 17:53:00
+2024-05-03 22:58:07,965 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:09,915 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:10,101 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-30 15:54:00 to 2023-12-31 16:53:00
+2024-05-03 22:58:10,101 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:10,260 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:58:12,039 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-29 14:54:00 to 2023-12-30 15:53:00
+2024-05-03 22:58:12,039 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:14,003 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-28 13:54:00 to 2023-12-29 14:53:00
+2024-05-03 22:58:14,004 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:15,965 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-27 12:54:00 to 2023-12-28 13:53:00
+2024-05-03 22:58:15,966 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:17,928 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-26 11:54:00 to 2023-12-27 12:53:00
+2024-05-03 22:58:17,929 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:19,897 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-25 10:54:00 to 2023-12-26 11:53:00
+2024-05-03 22:58:19,897 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:21,938 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-24 09:54:00 to 2023-12-25 10:53:00
+2024-05-03 22:58:21,938 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:23,892 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:24,084 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-23 08:54:00 to 2023-12-24 09:53:00
+2024-05-03 22:58:24,084 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:24,248 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:58:26,038 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-22 07:54:00 to 2023-12-23 08:53:00
+2024-05-03 22:58:26,038 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:27,993 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-21 06:54:00 to 2023-12-22 07:53:00
+2024-05-03 22:58:27,994 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:29,951 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-20 05:54:00 to 2023-12-21 06:53:00
+2024-05-03 22:58:29,952 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:31,909 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-19 04:54:00 to 2023-12-20 05:53:00
+2024-05-03 22:58:31,909 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:33,871 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-18 03:54:00 to 2023-12-19 04:53:00
+2024-05-03 22:58:33,871 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:35,833 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-17 02:54:00 to 2023-12-18 03:53:00
+2024-05-03 22:58:35,834 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:37,805 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:38,002 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-16 01:54:00 to 2023-12-17 02:53:00
+2024-05-03 22:58:38,002 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:38,174 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:58:39,942 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-15 00:54:00 to 2023-12-16 01:53:00
+2024-05-03 22:58:39,942 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:41,850 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-13 23:54:00 to 2023-12-15 00:53:00
+2024-05-03 22:58:41,850 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:43,785 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-12 22:54:00 to 2023-12-13 23:53:00
+2024-05-03 22:58:43,785 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:45,704 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-11 21:54:00 to 2023-12-12 22:53:00
+2024-05-03 22:58:45,704 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:47,590 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-10 20:54:00 to 2023-12-11 21:53:00
+2024-05-03 22:58:47,590 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:49,479 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-09 19:54:00 to 2023-12-10 20:53:00
+2024-05-03 22:58:49,479 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:51,409 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:51,597 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-08 18:54:00 to 2023-12-09 19:53:00
+2024-05-03 22:58:51,598 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:51,782 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:58:53,547 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-07 17:54:00 to 2023-12-08 18:53:00
+2024-05-03 22:58:53,547 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:55,508 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-06 16:54:00 to 2023-12-07 17:53:00
+2024-05-03 22:58:55,508 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:57,445 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-05 15:54:00 to 2023-12-06 16:53:00
+2024-05-03 22:58:57,445 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:58:59,342 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-04 14:54:00 to 2023-12-05 15:53:00
+2024-05-03 22:58:59,342 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:01,268 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-03 13:54:00 to 2023-12-04 14:53:00
+2024-05-03 22:59:01,268 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:03,255 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-02 12:54:00 to 2023-12-03 13:53:00
+2024-05-03 22:59:03,255 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:05,197 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:05,369 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-12-01 11:54:00 to 2023-12-02 12:53:00
+2024-05-03 22:59:05,369 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:05,530 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:59:07,281 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-30 10:54:00 to 2023-12-01 11:53:00
+2024-05-03 22:59:07,282 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:09,271 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-29 09:54:00 to 2023-11-30 10:53:00
+2024-05-03 22:59:09,271 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:11,282 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-28 08:54:00 to 2023-11-29 09:53:00
+2024-05-03 22:59:11,282 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:13,285 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-27 07:54:00 to 2023-11-28 08:53:00
+2024-05-03 22:59:13,285 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:15,285 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-26 06:54:00 to 2023-11-27 07:53:00
+2024-05-03 22:59:15,286 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:17,283 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-25 05:54:00 to 2023-11-26 06:53:00
+2024-05-03 22:59:17,284 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:19,280 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:19,513 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-24 04:54:00 to 2023-11-25 05:53:00
+2024-05-03 22:59:19,513 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:19,721 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:59:21,526 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-23 03:54:00 to 2023-11-24 04:53:00
+2024-05-03 22:59:21,526 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:23,538 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-22 02:54:00 to 2023-11-23 03:53:00
+2024-05-03 22:59:23,538 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:25,543 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-21 01:54:00 to 2023-11-22 02:53:00
+2024-05-03 22:59:25,543 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:27,538 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-20 00:54:00 to 2023-11-21 01:53:00
+2024-05-03 22:59:27,538 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:29,561 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-18 23:54:00 to 2023-11-20 00:53:00
+2024-05-03 22:59:29,562 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:31,562 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-17 22:54:00 to 2023-11-18 23:53:00
+2024-05-03 22:59:31,562 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:33,579 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:33,815 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-16 21:54:00 to 2023-11-17 22:53:00
+2024-05-03 22:59:33,815 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:34,027 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:59:35,794 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-15 20:54:00 to 2023-11-16 21:53:00
+2024-05-03 22:59:35,794 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:37,779 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-14 19:54:00 to 2023-11-15 20:53:00
+2024-05-03 22:59:37,780 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:39,778 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-13 18:54:00 to 2023-11-14 19:53:00
+2024-05-03 22:59:39,778 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:41,781 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-12 17:54:00 to 2023-11-13 18:53:00
+2024-05-03 22:59:41,782 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:43,805 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-11 16:54:00 to 2023-11-12 17:53:00
+2024-05-03 22:59:43,805 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:45,818 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-10 15:54:00 to 2023-11-11 16:53:00
+2024-05-03 22:59:45,818 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:47,834 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:48,076 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-09 14:54:00 to 2023-11-10 15:53:00
+2024-05-03 22:59:48,076 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:48,293 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 22:59:50,093 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-08 13:54:00 to 2023-11-09 14:53:00
+2024-05-03 22:59:50,093 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:52,121 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-07 12:54:00 to 2023-11-08 13:53:00
+2024-05-03 22:59:52,122 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:54,123 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-06 11:54:00 to 2023-11-07 12:53:00
+2024-05-03 22:59:54,123 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:56,152 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-05 10:54:00 to 2023-11-06 11:53:00
+2024-05-03 22:59:56,153 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 22:59:58,160 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-04 09:54:00 to 2023-11-05 10:53:00
+2024-05-03 22:59:58,161 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:00,177 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-03 08:54:00 to 2023-11-04 09:53:00
+2024-05-03 23:00:00,177 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:02,200 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:02,455 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-02 07:54:00 to 2023-11-03 08:53:00
+2024-05-03 23:00:02,455 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:02,684 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:00:04,452 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-11-01 06:54:00 to 2023-11-02 07:53:00
+2024-05-03 23:00:04,453 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:06,483 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-31 05:54:00 to 2023-11-01 06:53:00
+2024-05-03 23:00:06,484 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:08,496 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-30 04:54:00 to 2023-10-31 05:53:00
+2024-05-03 23:00:08,496 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:10,525 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-29 03:54:00 to 2023-10-30 04:53:00
+2024-05-03 23:00:10,525 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:12,554 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-28 02:54:00 to 2023-10-29 03:53:00
+2024-05-03 23:00:12,554 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:14,561 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-27 01:54:00 to 2023-10-28 02:53:00
+2024-05-03 23:00:14,562 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:16,591 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:16,836 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-26 00:54:00 to 2023-10-27 01:53:00
+2024-05-03 23:00:16,836 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:17,033 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:00:18,800 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-24 23:54:00 to 2023-10-26 00:53:00
+2024-05-03 23:00:18,801 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:20,827 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-23 22:54:00 to 2023-10-24 23:53:00
+2024-05-03 23:00:20,827 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:22,859 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-22 21:54:00 to 2023-10-23 22:53:00
+2024-05-03 23:00:22,860 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:24,893 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-21 20:54:00 to 2023-10-22 21:53:00
+2024-05-03 23:00:24,893 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:26,933 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-20 19:54:00 to 2023-10-21 20:53:00
+2024-05-03 23:00:26,934 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:28,971 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-19 18:54:00 to 2023-10-20 19:53:00
+2024-05-03 23:00:28,971 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:31,015 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:31,287 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-18 17:54:00 to 2023-10-19 18:53:00
+2024-05-03 23:00:31,288 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:31,533 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:00:33,311 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-17 16:54:00 to 2023-10-18 17:53:00
+2024-05-03 23:00:33,312 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:35,351 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-16 15:54:00 to 2023-10-17 16:53:00
+2024-05-03 23:00:35,351 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:37,408 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-15 14:54:00 to 2023-10-16 15:53:00
+2024-05-03 23:00:37,408 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:39,444 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-14 13:54:00 to 2023-10-15 14:53:00
+2024-05-03 23:00:39,444 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:41,479 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-13 12:54:00 to 2023-10-14 13:53:00
+2024-05-03 23:00:41,479 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:43,536 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-12 11:54:00 to 2023-10-13 12:53:00
+2024-05-03 23:00:43,537 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:45,599 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:45,884 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-11 10:54:00 to 2023-10-12 11:53:00
+2024-05-03 23:00:45,884 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:46,139 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:00:47,920 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-10 09:54:00 to 2023-10-11 10:53:00
+2024-05-03 23:00:47,920 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:50,016 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-09 08:54:00 to 2023-10-10 09:53:00
+2024-05-03 23:00:50,017 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:52,065 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-08 07:54:00 to 2023-10-09 08:53:00
+2024-05-03 23:00:52,065 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:54,119 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-07 06:54:00 to 2023-10-08 07:53:00
+2024-05-03 23:00:54,120 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:56,169 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-06 05:54:00 to 2023-10-07 06:53:00
+2024-05-03 23:00:56,169 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:00:58,219 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-05 04:54:00 to 2023-10-06 05:53:00
+2024-05-03 23:00:58,219 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:00,284 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:00,575 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-04 03:54:00 to 2023-10-05 04:53:00
+2024-05-03 23:01:00,575 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:00,832 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:01:02,601 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-03 02:54:00 to 2023-10-04 03:53:00
+2024-05-03 23:01:02,602 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:04,653 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-02 01:54:00 to 2023-10-03 02:53:00
+2024-05-03 23:01:04,653 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:06,714 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-10-01 00:54:00 to 2023-10-02 01:53:00
+2024-05-03 23:01:06,714 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:08,764 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-29 23:54:00 to 2023-10-01 00:53:00
+2024-05-03 23:01:08,765 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:10,824 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-28 22:54:00 to 2023-09-29 23:53:00
+2024-05-03 23:01:10,825 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:12,889 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-27 21:54:00 to 2023-09-28 22:53:00
+2024-05-03 23:01:12,889 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:14,961 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:15,261 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-26 20:54:00 to 2023-09-27 21:53:00
+2024-05-03 23:01:15,261 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:15,533 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:01:17,308 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-25 19:54:00 to 2023-09-26 20:53:00
+2024-05-03 23:01:17,309 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:19,372 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-24 18:54:00 to 2023-09-25 19:53:00
+2024-05-03 23:01:19,372 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:21,437 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-23 17:54:00 to 2023-09-24 18:53:00
+2024-05-03 23:01:21,438 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:23,526 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-22 16:54:00 to 2023-09-23 17:53:00
+2024-05-03 23:01:23,526 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:25,583 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-21 15:54:00 to 2023-09-22 16:53:00
+2024-05-03 23:01:25,583 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:27,657 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-20 14:54:00 to 2023-09-21 15:53:00
+2024-05-03 23:01:27,657 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:29,739 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:30,045 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-19 13:54:00 to 2023-09-20 14:53:00
+2024-05-03 23:01:30,045 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:30,315 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:01:32,086 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-18 12:54:00 to 2023-09-19 13:53:00
+2024-05-03 23:01:32,086 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:34,170 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-17 11:54:00 to 2023-09-18 12:53:00
+2024-05-03 23:01:34,171 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:36,238 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-16 10:54:00 to 2023-09-17 11:53:00
+2024-05-03 23:01:36,238 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:38,313 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-15 09:54:00 to 2023-09-16 10:53:00
+2024-05-03 23:01:38,314 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:40,396 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-14 08:54:00 to 2023-09-15 09:53:00
+2024-05-03 23:01:40,396 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:42,488 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-13 07:54:00 to 2023-09-14 08:53:00
+2024-05-03 23:01:42,489 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:44,576 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:44,893 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-12 06:54:00 to 2023-09-13 07:53:00
+2024-05-03 23:01:44,894 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:45,171 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:01:46,955 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-11 05:54:00 to 2023-09-12 06:53:00
+2024-05-03 23:01:46,955 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:49,022 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-10 04:54:00 to 2023-09-11 05:53:00
+2024-05-03 23:01:49,022 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:51,147 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-09 03:54:00 to 2023-09-10 04:53:00
+2024-05-03 23:01:51,147 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:53,255 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-08 02:54:00 to 2023-09-09 03:53:00
+2024-05-03 23:01:53,256 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:55,348 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-07 01:54:00 to 2023-09-08 02:53:00
+2024-05-03 23:01:55,348 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:57,448 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-06 00:54:00 to 2023-09-07 01:53:00
+2024-05-03 23:01:57,448 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:59,559 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:01:59,885 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-04 23:54:00 to 2023-09-06 00:53:00
+2024-05-03 23:01:59,885 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:00,170 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:02:01,940 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-03 22:54:00 to 2023-09-04 23:53:00
+2024-05-03 23:02:01,940 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:04,029 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-02 21:54:00 to 2023-09-03 22:53:00
+2024-05-03 23:02:04,030 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:06,089 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-09-01 20:54:00 to 2023-09-02 21:53:00
+2024-05-03 23:02:06,089 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:08,173 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-31 19:54:00 to 2023-09-01 20:53:00
+2024-05-03 23:02:08,173 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:10,285 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-30 18:54:00 to 2023-08-31 19:53:00
+2024-05-03 23:02:10,285 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:12,361 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-29 17:54:00 to 2023-08-30 18:53:00
+2024-05-03 23:02:12,361 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:14,499 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:14,818 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-28 16:54:00 to 2023-08-29 17:53:00
+2024-05-03 23:02:14,818 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:15,100 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:02:16,877 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-27 15:54:00 to 2023-08-28 16:53:00
+2024-05-03 23:02:16,877 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:18,933 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-26 14:54:00 to 2023-08-27 15:53:00
+2024-05-03 23:02:18,934 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:21,031 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-25 13:54:00 to 2023-08-26 14:53:00
+2024-05-03 23:02:21,031 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:23,131 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-24 12:54:00 to 2023-08-25 13:53:00
+2024-05-03 23:02:23,131 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:25,239 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-23 11:54:00 to 2023-08-24 12:53:00
+2024-05-03 23:02:25,239 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:27,352 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-22 10:54:00 to 2023-08-23 11:53:00
+2024-05-03 23:02:27,352 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:29,462 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:29,796 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-21 09:54:00 to 2023-08-22 10:53:00
+2024-05-03 23:02:29,796 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:30,085 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:02:31,855 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-20 08:54:00 to 2023-08-21 09:53:00
+2024-05-03 23:02:31,855 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:33,961 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-19 07:54:00 to 2023-08-20 08:53:00
+2024-05-03 23:02:33,961 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:36,064 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-18 06:54:00 to 2023-08-19 07:53:00
+2024-05-03 23:02:36,065 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:38,169 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-17 05:54:00 to 2023-08-18 06:53:00
+2024-05-03 23:02:38,170 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:40,269 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-16 04:54:00 to 2023-08-17 05:53:00
+2024-05-03 23:02:40,269 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:42,418 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-15 03:54:00 to 2023-08-16 04:53:00
+2024-05-03 23:02:42,418 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:44,526 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:44,875 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-14 02:54:00 to 2023-08-15 03:53:00
+2024-05-03 23:02:44,875 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:45,177 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:02:46,955 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-13 01:54:00 to 2023-08-14 02:53:00
+2024-05-03 23:02:46,956 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:49,071 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-12 00:54:00 to 2023-08-13 01:53:00
+2024-05-03 23:02:49,072 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:51,198 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-10 23:54:00 to 2023-08-12 00:53:00
+2024-05-03 23:02:51,198 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:53,295 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-09 22:54:00 to 2023-08-10 23:53:00
+2024-05-03 23:02:53,295 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:55,417 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-08 21:54:00 to 2023-08-09 22:53:00
+2024-05-03 23:02:55,417 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:57,572 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-07 20:54:00 to 2023-08-08 21:53:00
+2024-05-03 23:02:57,572 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:02:59,681 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:00,034 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-06 19:54:00 to 2023-08-07 20:53:00
+2024-05-03 23:03:00,035 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:00,337 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:03:02,108 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-05 18:54:00 to 2023-08-06 19:53:00
+2024-05-03 23:03:02,108 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:04,227 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-04 17:54:00 to 2023-08-05 18:53:00
+2024-05-03 23:03:04,228 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:06,343 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-03 16:54:00 to 2023-08-04 17:53:00
+2024-05-03 23:03:06,344 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:08,465 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-02 15:54:00 to 2023-08-03 16:53:00
+2024-05-03 23:03:08,465 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:10,575 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-08-01 14:54:00 to 2023-08-02 15:53:00
+2024-05-03 23:03:10,575 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:12,710 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-31 13:54:00 to 2023-08-01 14:53:00
+2024-05-03 23:03:12,711 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:14,888 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:15,254 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-30 12:54:00 to 2023-07-31 13:53:00
+2024-05-03 23:03:15,255 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:15,551 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:03:17,311 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-29 11:54:00 to 2023-07-30 12:53:00
+2024-05-03 23:03:17,311 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:19,451 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-28 10:54:00 to 2023-07-29 11:53:00
+2024-05-03 23:03:19,451 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:21,586 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-27 09:54:00 to 2023-07-28 10:53:00
+2024-05-03 23:03:21,586 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:23,721 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-26 08:54:00 to 2023-07-27 09:53:00
+2024-05-03 23:03:23,721 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:25,850 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-25 07:54:00 to 2023-07-26 08:53:00
+2024-05-03 23:03:25,850 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:27,982 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-24 06:54:00 to 2023-07-25 07:53:00
+2024-05-03 23:03:27,982 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:30,119 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:30,489 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-23 05:54:00 to 2023-07-24 06:53:00
+2024-05-03 23:03:30,489 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:30,792 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:03:32,557 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-22 04:54:00 to 2023-07-23 05:53:00
+2024-05-03 23:03:32,557 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:34,688 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-21 03:54:00 to 2023-07-22 04:53:00
+2024-05-03 23:03:34,688 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:36,818 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-20 02:54:00 to 2023-07-21 03:53:00
+2024-05-03 23:03:36,819 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:38,926 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-19 01:54:00 to 2023-07-20 02:53:00
+2024-05-03 23:03:38,927 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:41,057 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-18 00:54:00 to 2023-07-19 01:53:00
+2024-05-03 23:03:41,057 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:43,198 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-16 23:54:00 to 2023-07-18 00:53:00
+2024-05-03 23:03:43,199 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:45,332 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:45,643 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-15 22:54:00 to 2023-07-16 23:53:00
+2024-05-03 23:03:45,643 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:45,940 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:03:47,675 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-14 21:54:00 to 2023-07-15 22:53:00
+2024-05-03 23:03:47,676 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:49,757 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-13 20:54:00 to 2023-07-14 21:53:00
+2024-05-03 23:03:49,757 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:51,836 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-12 19:54:00 to 2023-07-13 20:53:00
+2024-05-03 23:03:51,836 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:53,924 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-11 18:54:00 to 2023-07-12 19:53:00
+2024-05-03 23:03:53,924 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:56,061 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-10 17:54:00 to 2023-07-11 18:53:00
+2024-05-03 23:03:56,061 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:03:58,146 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-09 16:54:00 to 2023-07-10 17:53:00
+2024-05-03 23:03:58,146 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:00,266 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:00,654 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-08 15:54:00 to 2023-07-09 16:53:00
+2024-05-03 23:04:00,654 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:00,981 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:04:02,759 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-07 14:54:00 to 2023-07-08 15:53:00
+2024-05-03 23:04:02,759 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:04,937 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-06 13:54:00 to 2023-07-07 14:53:00
+2024-05-03 23:04:04,938 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:07,099 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-05 12:54:00 to 2023-07-06 13:53:00
+2024-05-03 23:04:07,100 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:09,252 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-04 11:54:00 to 2023-07-05 12:53:00
+2024-05-03 23:04:09,252 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:11,399 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-03 10:54:00 to 2023-07-04 11:53:00
+2024-05-03 23:04:11,399 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:13,584 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-02 09:54:00 to 2023-07-03 10:53:00
+2024-05-03 23:04:13,584 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:15,740 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:16,169 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-07-01 08:54:00 to 2023-07-02 09:53:00
+2024-05-03 23:04:16,169 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:16,500 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:04:18,271 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-30 07:54:00 to 2023-07-01 08:53:00
+2024-05-03 23:04:18,271 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:20,440 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-29 06:54:00 to 2023-06-30 07:53:00
+2024-05-03 23:04:20,440 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:22,606 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-28 05:54:00 to 2023-06-29 06:53:00
+2024-05-03 23:04:22,606 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:24,774 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-27 04:54:00 to 2023-06-28 05:53:00
+2024-05-03 23:04:24,774 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:26,943 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-26 03:54:00 to 2023-06-27 04:53:00
+2024-05-03 23:04:26,944 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:29,164 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-25 02:54:00 to 2023-06-26 03:53:00
+2024-05-03 23:04:29,164 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:31,332 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:31,756 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-24 01:54:00 to 2023-06-25 02:53:00
+2024-05-03 23:04:31,756 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:32,108 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:04:33,880 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-23 00:54:00 to 2023-06-24 01:53:00
+2024-05-03 23:04:33,881 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:36,079 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-21 23:54:00 to 2023-06-23 00:53:00
+2024-05-03 23:04:36,080 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:38,261 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-20 22:54:00 to 2023-06-21 23:53:00
+2024-05-03 23:04:38,261 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:40,440 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-19 21:54:00 to 2023-06-20 22:53:00
+2024-05-03 23:04:40,440 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:42,627 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-18 20:54:00 to 2023-06-19 21:53:00
+2024-05-03 23:04:42,627 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:44,846 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-17 19:54:00 to 2023-06-18 20:53:00
+2024-05-03 23:04:44,847 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:47,048 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:47,483 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-16 18:54:00 to 2023-06-17 19:53:00
+2024-05-03 23:04:47,483 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:47,853 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:04:49,644 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-15 17:54:00 to 2023-06-16 18:53:00
+2024-05-03 23:04:49,644 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:51,817 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-14 16:54:00 to 2023-06-15 17:53:00
+2024-05-03 23:04:51,818 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:53,992 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-13 15:54:00 to 2023-06-14 16:53:00
+2024-05-03 23:04:53,993 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:56,187 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-12 14:54:00 to 2023-06-13 15:53:00
+2024-05-03 23:04:56,187 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:04:58,400 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-11 13:54:00 to 2023-06-12 14:53:00
+2024-05-03 23:04:58,400 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:00,600 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-10 12:54:00 to 2023-06-11 13:53:00
+2024-05-03 23:05:00,600 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:02,813 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:03,242 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-09 11:54:00 to 2023-06-10 12:53:00
+2024-05-03 23:05:03,242 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:03,597 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:05:05,368 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-08 10:54:00 to 2023-06-09 11:53:00
+2024-05-03 23:05:05,368 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:07,559 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-07 09:54:00 to 2023-06-08 10:53:00
+2024-05-03 23:05:07,559 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:09,760 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-06 08:54:00 to 2023-06-07 09:53:00
+2024-05-03 23:05:09,760 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:11,981 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-05 07:54:00 to 2023-06-06 08:53:00
+2024-05-03 23:05:11,982 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:14,236 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-04 06:54:00 to 2023-06-05 07:53:00
+2024-05-03 23:05:14,237 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:16,465 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-03 05:54:00 to 2023-06-04 06:53:00
+2024-05-03 23:05:16,465 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:18,688 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:19,132 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-02 04:54:00 to 2023-06-03 05:53:00
+2024-05-03 23:05:19,132 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:19,492 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:05:21,259 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-06-01 03:54:00 to 2023-06-02 04:53:00
+2024-05-03 23:05:21,259 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:23,460 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-31 02:54:00 to 2023-06-01 03:53:00
+2024-05-03 23:05:23,461 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:25,677 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-30 01:54:00 to 2023-05-31 02:53:00
+2024-05-03 23:05:25,677 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:27,902 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-29 00:54:00 to 2023-05-30 01:53:00
+2024-05-03 23:05:27,903 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:30,117 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-27 23:54:00 to 2023-05-29 00:53:00
+2024-05-03 23:05:30,118 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:32,337 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-26 22:54:00 to 2023-05-27 23:53:00
+2024-05-03 23:05:32,337 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:34,550 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:35,011 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-25 21:54:00 to 2023-05-26 22:53:00
+2024-05-03 23:05:35,011 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:35,377 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:05:37,153 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-24 20:54:00 to 2023-05-25 21:53:00
+2024-05-03 23:05:37,154 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:39,365 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-23 19:54:00 to 2023-05-24 20:53:00
+2024-05-03 23:05:39,365 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:41,558 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-22 18:54:00 to 2023-05-23 19:53:00
+2024-05-03 23:05:41,558 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:43,772 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-21 17:54:00 to 2023-05-22 18:53:00
+2024-05-03 23:05:43,772 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:46,015 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-20 16:54:00 to 2023-05-21 17:53:00
+2024-05-03 23:05:46,016 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:48,247 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-19 15:54:00 to 2023-05-20 16:53:00
+2024-05-03 23:05:48,248 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:50,489 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:50,955 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-18 14:54:00 to 2023-05-19 15:53:00
+2024-05-03 23:05:50,955 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:51,328 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:05:53,102 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-17 13:54:00 to 2023-05-18 14:53:00
+2024-05-03 23:05:53,102 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:55,313 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-16 12:54:00 to 2023-05-17 13:53:00
+2024-05-03 23:05:55,313 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:57,540 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-15 11:54:00 to 2023-05-16 12:53:00
+2024-05-03 23:05:57,540 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:05:59,760 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-14 10:54:00 to 2023-05-15 11:53:00
+2024-05-03 23:05:59,761 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:02,000 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-13 09:54:00 to 2023-05-14 10:53:00
+2024-05-03 23:06:02,000 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:04,257 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-12 08:54:00 to 2023-05-13 09:53:00
+2024-05-03 23:06:04,257 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:06,514 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:06,979 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-11 07:54:00 to 2023-05-12 08:53:00
+2024-05-03 23:06:06,980 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:07,362 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:06:09,129 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-10 06:54:00 to 2023-05-11 07:53:00
+2024-05-03 23:06:09,129 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:11,357 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-09 05:54:00 to 2023-05-10 06:53:00
+2024-05-03 23:06:11,358 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:13,627 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-08 04:54:00 to 2023-05-09 05:53:00
+2024-05-03 23:06:13,628 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:15,885 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-07 03:54:00 to 2023-05-08 04:53:00
+2024-05-03 23:06:15,885 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:18,121 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-06 02:54:00 to 2023-05-07 03:53:00
+2024-05-03 23:06:18,121 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:20,387 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-05 01:54:00 to 2023-05-06 02:53:00
+2024-05-03 23:06:20,388 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:22,615 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:23,102 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-04 00:54:00 to 2023-05-05 01:53:00
+2024-05-03 23:06:23,102 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:23,515 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:06:25,266 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-02 23:54:00 to 2023-05-04 00:53:00
+2024-05-03 23:06:25,267 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:27,520 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-05-01 22:54:00 to 2023-05-02 23:53:00
+2024-05-03 23:06:27,520 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:29,762 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-30 21:54:00 to 2023-05-01 22:53:00
+2024-05-03 23:06:29,763 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:32,041 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-29 20:54:00 to 2023-04-30 21:53:00
+2024-05-03 23:06:32,041 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:34,307 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-28 19:54:00 to 2023-04-29 20:53:00
+2024-05-03 23:06:34,307 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:36,565 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-27 18:54:00 to 2023-04-28 19:53:00
+2024-05-03 23:06:36,565 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:38,826 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:39,327 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-26 17:54:00 to 2023-04-27 18:53:00
+2024-05-03 23:06:39,327 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:39,715 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:06:41,474 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-25 16:54:00 to 2023-04-26 17:53:00
+2024-05-03 23:06:41,475 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:43,741 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-24 15:54:00 to 2023-04-25 16:53:00
+2024-05-03 23:06:43,741 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:45,979 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-23 14:54:00 to 2023-04-24 15:53:00
+2024-05-03 23:06:45,979 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:48,239 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-22 13:54:00 to 2023-04-23 14:53:00
+2024-05-03 23:06:48,239 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:50,501 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-21 12:54:00 to 2023-04-22 13:53:00
+2024-05-03 23:06:50,501 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:52,731 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-20 11:54:00 to 2023-04-21 12:53:00
+2024-05-03 23:06:52,731 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:54,997 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:55,506 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-19 10:54:00 to 2023-04-20 11:53:00
+2024-05-03 23:06:55,506 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:55,907 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:06:57,685 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-18 09:54:00 to 2023-04-19 10:53:00
+2024-05-03 23:06:57,685 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:06:59,938 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-17 08:54:00 to 2023-04-18 09:53:00
+2024-05-03 23:06:59,938 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:02,199 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-16 07:54:00 to 2023-04-17 08:53:00
+2024-05-03 23:07:02,199 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:04,471 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-15 06:54:00 to 2023-04-16 07:53:00
+2024-05-03 23:07:04,471 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:06,758 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-14 05:54:00 to 2023-04-15 06:53:00
+2024-05-03 23:07:06,758 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:09,010 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-13 04:54:00 to 2023-04-14 05:53:00
+2024-05-03 23:07:09,011 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:11,291 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:11,798 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-12 03:54:00 to 2023-04-13 04:53:00
+2024-05-03 23:07:11,798 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:12,202 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:07:13,981 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-11 02:54:00 to 2023-04-12 03:53:00
+2024-05-03 23:07:13,982 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:16,245 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-10 01:54:00 to 2023-04-11 02:53:00
+2024-05-03 23:07:16,246 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:18,522 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-09 00:54:00 to 2023-04-10 01:53:00
+2024-05-03 23:07:18,523 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:20,821 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-07 23:54:00 to 2023-04-09 00:53:00
+2024-05-03 23:07:20,821 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:23,110 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-06 22:54:00 to 2023-04-07 23:53:00
+2024-05-03 23:07:23,110 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:25,390 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-05 21:54:00 to 2023-04-06 22:53:00
+2024-05-03 23:07:25,391 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:27,675 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:28,193 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-04 20:54:00 to 2023-04-05 21:53:00
+2024-05-03 23:07:28,193 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:28,608 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:07:30,388 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-03 19:54:00 to 2023-04-04 20:53:00
+2024-05-03 23:07:30,388 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:32,667 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-02 18:54:00 to 2023-04-03 19:53:00
+2024-05-03 23:07:32,668 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:34,920 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-04-01 17:54:00 to 2023-04-02 18:53:00
+2024-05-03 23:07:34,920 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:37,196 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-31 16:54:00 to 2023-04-01 17:53:00
+2024-05-03 23:07:37,196 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:39,506 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-30 15:54:00 to 2023-03-31 16:53:00
+2024-05-03 23:07:39,506 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:41,777 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-29 14:54:00 to 2023-03-30 15:53:00
+2024-05-03 23:07:41,778 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:44,042 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:44,538 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-28 13:54:00 to 2023-03-29 14:53:00
+2024-05-03 23:07:44,539 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:44,959 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:07:46,771 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-27 12:54:00 to 2023-03-28 13:53:00
+2024-05-03 23:07:46,771 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:49,011 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-26 11:54:00 to 2023-03-27 12:53:00
+2024-05-03 23:07:49,011 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:51,268 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-25 10:54:00 to 2023-03-26 11:53:00
+2024-05-03 23:07:51,268 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:53,460 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-24 09:54:00 to 2023-03-25 10:53:00
+2024-05-03 23:07:53,460 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:55,753 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-23 08:54:00 to 2023-03-24 09:53:00
+2024-05-03 23:07:55,754 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:07:58,080 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-22 07:54:00 to 2023-03-23 08:53:00
+2024-05-03 23:07:58,080 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:00,370 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:00,907 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-21 06:54:00 to 2023-03-22 07:53:00
+2024-05-03 23:08:00,907 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:01,351 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:08:03,164 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-20 05:54:00 to 2023-03-21 06:53:00
+2024-05-03 23:08:03,164 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:05,445 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-19 04:54:00 to 2023-03-20 05:53:00
+2024-05-03 23:08:05,446 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:07,754 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-18 03:54:00 to 2023-03-19 04:53:00
+2024-05-03 23:08:07,754 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:10,095 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-17 02:54:00 to 2023-03-18 03:53:00
+2024-05-03 23:08:10,096 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:12,417 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-16 01:54:00 to 2023-03-17 02:53:00
+2024-05-03 23:08:12,418 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:14,783 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-15 00:54:00 to 2023-03-16 01:53:00
+2024-05-03 23:08:14,784 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:17,001 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:17,548 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-13 23:54:00 to 2023-03-15 00:53:00
+2024-05-03 23:08:17,548 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:17,992 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:08:19,761 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-12 22:54:00 to 2023-03-13 23:53:00
+2024-05-03 23:08:19,761 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:22,028 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-11 21:54:00 to 2023-03-12 22:53:00
+2024-05-03 23:08:22,028 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:24,253 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-10 20:54:00 to 2023-03-11 21:53:00
+2024-05-03 23:08:24,253 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:26,436 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-09 19:54:00 to 2023-03-10 20:53:00
+2024-05-03 23:08:26,436 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:28,679 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-08 18:54:00 to 2023-03-09 19:53:00
+2024-05-03 23:08:28,679 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:30,915 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-07 17:54:00 to 2023-03-08 18:53:00
+2024-05-03 23:08:30,915 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:33,146 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:33,699 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-06 16:54:00 to 2023-03-07 17:53:00
+2024-05-03 23:08:33,699 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:34,134 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:08:35,903 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-05 15:54:00 to 2023-03-06 16:53:00
+2024-05-03 23:08:35,903 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:38,194 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-04 14:54:00 to 2023-03-05 15:53:00
+2024-05-03 23:08:38,194 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:40,516 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-03 13:54:00 to 2023-03-04 14:53:00
+2024-05-03 23:08:40,516 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:42,832 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-02 12:54:00 to 2023-03-03 13:53:00
+2024-05-03 23:08:42,832 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:45,116 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-03-01 11:54:00 to 2023-03-02 12:53:00
+2024-05-03 23:08:45,116 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:47,404 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-28 10:54:00 to 2023-03-01 11:53:00
+2024-05-03 23:08:47,404 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:49,793 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:50,339 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-27 09:54:00 to 2023-02-28 10:53:00
+2024-05-03 23:08:50,339 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:50,786 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:08:52,565 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-26 08:54:00 to 2023-02-27 09:53:00
+2024-05-03 23:08:52,565 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:54,874 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-25 07:54:00 to 2023-02-26 08:53:00
+2024-05-03 23:08:54,874 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:57,142 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-24 06:54:00 to 2023-02-25 07:53:00
+2024-05-03 23:08:57,142 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:08:59,431 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-23 05:54:00 to 2023-02-24 06:53:00
+2024-05-03 23:08:59,431 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:01,713 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-22 04:54:00 to 2023-02-23 05:53:00
+2024-05-03 23:09:01,714 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:04,015 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-21 03:54:00 to 2023-02-22 04:53:00
+2024-05-03 23:09:04,016 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:06,402 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:06,964 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-20 02:54:00 to 2023-02-21 03:53:00
+2024-05-03 23:09:06,964 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:07,409 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:09:09,179 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-19 01:54:00 to 2023-02-20 02:53:00
+2024-05-03 23:09:09,179 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:11,546 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-18 00:54:00 to 2023-02-19 01:53:00
+2024-05-03 23:09:11,546 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:13,873 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-16 23:54:00 to 2023-02-18 00:53:00
+2024-05-03 23:09:13,874 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:16,256 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-15 22:54:00 to 2023-02-16 23:53:00
+2024-05-03 23:09:16,256 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:18,641 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-14 21:54:00 to 2023-02-15 22:53:00
+2024-05-03 23:09:18,641 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:20,985 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-13 20:54:00 to 2023-02-14 21:53:00
+2024-05-03 23:09:20,985 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:23,375 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:23,945 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-12 19:54:00 to 2023-02-13 20:53:00
+2024-05-03 23:09:23,945 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:24,396 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:09:26,195 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-11 18:54:00 to 2023-02-12 19:53:00
+2024-05-03 23:09:26,195 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:28,516 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-10 17:54:00 to 2023-02-11 18:53:00
+2024-05-03 23:09:28,517 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:30,844 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-09 16:54:00 to 2023-02-10 17:53:00
+2024-05-03 23:09:30,845 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:33,180 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-08 15:54:00 to 2023-02-09 16:53:00
+2024-05-03 23:09:33,181 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:35,493 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-07 14:54:00 to 2023-02-08 15:53:00
+2024-05-03 23:09:35,493 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:37,780 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-06 13:54:00 to 2023-02-07 14:53:00
+2024-05-03 23:09:37,780 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:40,111 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:40,680 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-05 12:54:00 to 2023-02-06 13:53:00
+2024-05-03 23:09:40,680 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:41,139 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:09:42,911 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-04 11:54:00 to 2023-02-05 12:53:00
+2024-05-03 23:09:42,911 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:45,230 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-03 10:54:00 to 2023-02-04 11:53:00
+2024-05-03 23:09:45,230 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:47,571 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-02 09:54:00 to 2023-02-03 10:53:00
+2024-05-03 23:09:47,571 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:49,980 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-02-01 08:54:00 to 2023-02-02 09:53:00
+2024-05-03 23:09:49,980 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:52,384 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-31 07:54:00 to 2023-02-01 08:53:00
+2024-05-03 23:09:52,384 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:54,741 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-30 06:54:00 to 2023-01-31 07:53:00
+2024-05-03 23:09:54,741 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:57,084 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:57,671 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-29 05:54:00 to 2023-01-30 06:53:00
+2024-05-03 23:09:57,671 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:09:58,139 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:09:59,907 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-28 04:54:00 to 2023-01-29 05:53:00
+2024-05-03 23:09:59,907 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:02,247 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-27 03:54:00 to 2023-01-28 04:53:00
+2024-05-03 23:10:02,247 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:04,594 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-26 02:54:00 to 2023-01-27 03:53:00
+2024-05-03 23:10:04,594 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:06,863 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-25 01:54:00 to 2023-01-26 02:53:00
+2024-05-03 23:10:06,863 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:09,237 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-24 00:54:00 to 2023-01-25 01:53:00
+2024-05-03 23:10:09,237 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:11,667 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-22 23:54:00 to 2023-01-24 00:53:00
+2024-05-03 23:10:11,668 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:13,943 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:14,538 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-21 22:54:00 to 2023-01-22 23:53:00
+2024-05-03 23:10:14,538 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:15,017 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:10:16,811 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-20 21:54:00 to 2023-01-21 22:53:00
+2024-05-03 23:10:16,811 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:19,170 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-19 20:54:00 to 2023-01-20 21:53:00
+2024-05-03 23:10:19,170 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:21,519 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-18 19:54:00 to 2023-01-19 20:53:00
+2024-05-03 23:10:21,519 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:23,890 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-17 18:54:00 to 2023-01-18 19:53:00
+2024-05-03 23:10:23,890 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:26,253 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-16 17:54:00 to 2023-01-17 18:53:00
+2024-05-03 23:10:26,253 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:28,686 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-15 16:54:00 to 2023-01-16 17:53:00
+2024-05-03 23:10:28,686 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:31,076 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:31,705 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-14 15:54:00 to 2023-01-15 16:53:00
+2024-05-03 23:10:31,706 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:32,210 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:10:34,005 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-13 14:54:00 to 2023-01-14 15:53:00
+2024-05-03 23:10:34,006 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:36,440 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-12 13:54:00 to 2023-01-13 14:53:00
+2024-05-03 23:10:36,440 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:38,857 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-11 12:54:00 to 2023-01-12 13:53:00
+2024-05-03 23:10:38,858 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:41,237 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-10 11:54:00 to 2023-01-11 12:53:00
+2024-05-03 23:10:41,237 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:43,604 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-09 10:54:00 to 2023-01-10 11:53:00
+2024-05-03 23:10:43,605 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:45,975 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-08 09:54:00 to 2023-01-09 10:53:00
+2024-05-03 23:10:45,976 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:48,339 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:48,865 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-07 08:54:00 to 2023-01-08 09:53:00
+2024-05-03 23:10:48,865 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:49,362 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:10:51,187 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-06 07:54:00 to 2023-01-07 08:53:00
+2024-05-03 23:10:51,187 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:53,566 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-05 06:54:00 to 2023-01-06 07:53:00
+2024-05-03 23:10:53,567 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:55,983 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-04 05:54:00 to 2023-01-05 06:53:00
+2024-05-03 23:10:55,983 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:10:58,379 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-03 04:54:00 to 2023-01-04 05:53:00
+2024-05-03 23:10:58,380 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:00,771 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-02 03:54:00 to 2023-01-03 04:53:00
+2024-05-03 23:11:00,771 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:03,164 INFO :: Binance BTCUSDT: Collected 1500 older data from 2023-01-01 02:54:00 to 2023-01-02 03:53:00
+2024-05-03 23:11:03,165 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:05,569 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:06,181 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-31 01:54:00 to 2023-01-01 02:53:00
+2024-05-03 23:11:06,181 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:06,671 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:11:08,502 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-30 00:54:00 to 2022-12-31 01:53:00
+2024-05-03 23:11:08,503 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:10,982 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-28 23:54:00 to 2022-12-30 00:53:00
+2024-05-03 23:11:10,982 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:13,353 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-27 22:54:00 to 2022-12-28 23:53:00
+2024-05-03 23:11:13,353 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:15,748 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-26 21:54:00 to 2022-12-27 22:53:00
+2024-05-03 23:11:15,748 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:18,210 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-25 20:54:00 to 2022-12-26 21:53:00
+2024-05-03 23:11:18,211 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:20,600 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-24 19:54:00 to 2022-12-25 20:53:00
+2024-05-03 23:11:20,601 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:22,994 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:23,618 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-23 18:54:00 to 2022-12-24 19:53:00
+2024-05-03 23:11:23,618 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:24,129 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:11:25,881 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-22 17:54:00 to 2022-12-23 18:53:00
+2024-05-03 23:11:25,881 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:28,344 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-21 16:54:00 to 2022-12-22 17:53:00
+2024-05-03 23:11:28,344 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:30,764 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-20 15:54:00 to 2022-12-21 16:53:00
+2024-05-03 23:11:30,765 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:33,175 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-19 14:54:00 to 2022-12-20 15:53:00
+2024-05-03 23:11:33,175 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:35,468 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-18 13:54:00 to 2022-12-19 14:53:00
+2024-05-03 23:11:35,468 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:37,832 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-17 12:54:00 to 2022-12-18 13:53:00
+2024-05-03 23:11:37,832 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:40,227 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:40,808 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-16 11:54:00 to 2022-12-17 12:53:00
+2024-05-03 23:11:40,808 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:41,322 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:11:43,123 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-15 10:54:00 to 2022-12-16 11:53:00
+2024-05-03 23:11:43,123 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:45,418 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-14 09:54:00 to 2022-12-15 10:53:00
+2024-05-03 23:11:45,418 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:47,724 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-13 08:54:00 to 2022-12-14 09:53:00
+2024-05-03 23:11:47,724 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:50,181 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-12 07:54:00 to 2022-12-13 08:53:00
+2024-05-03 23:11:50,181 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:52,535 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-11 06:54:00 to 2022-12-12 07:53:00
+2024-05-03 23:11:52,536 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:54,925 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-10 05:54:00 to 2022-12-11 06:53:00
+2024-05-03 23:11:54,925 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:57,297 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:57,936 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-09 04:54:00 to 2022-12-10 05:53:00
+2024-05-03 23:11:57,936 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:11:58,468 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:12:00,294 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-08 03:54:00 to 2022-12-09 04:53:00
+2024-05-03 23:12:00,294 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:02,706 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-07 02:54:00 to 2022-12-08 03:53:00
+2024-05-03 23:12:02,706 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:05,127 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-06 01:54:00 to 2022-12-07 02:53:00
+2024-05-03 23:12:05,128 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:07,549 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-05 00:54:00 to 2022-12-06 01:53:00
+2024-05-03 23:12:07,549 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:09,964 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-03 23:54:00 to 2022-12-05 00:53:00
+2024-05-03 23:12:09,965 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:12,440 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-02 22:54:00 to 2022-12-03 23:53:00
+2024-05-03 23:12:12,440 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:14,905 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:15,560 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-12-01 21:54:00 to 2022-12-02 22:53:00
+2024-05-03 23:12:15,560 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:16,095 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:12:17,897 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-30 20:54:00 to 2022-12-01 21:53:00
+2024-05-03 23:12:17,898 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:20,379 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-29 19:54:00 to 2022-11-30 20:53:00
+2024-05-03 23:12:20,379 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:22,787 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-28 18:54:00 to 2022-11-29 19:53:00
+2024-05-03 23:12:22,787 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:25,242 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-27 17:54:00 to 2022-11-28 18:53:00
+2024-05-03 23:12:25,242 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:27,684 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-26 16:54:00 to 2022-11-27 17:53:00
+2024-05-03 23:12:27,684 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:30,148 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-25 15:54:00 to 2022-11-26 16:53:00
+2024-05-03 23:12:30,148 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:32,525 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:33,176 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-24 14:54:00 to 2022-11-25 15:53:00
+2024-05-03 23:12:33,176 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:33,707 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:12:35,481 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-23 13:54:00 to 2022-11-24 14:53:00
+2024-05-03 23:12:35,482 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:37,902 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-22 12:54:00 to 2022-11-23 13:53:00
+2024-05-03 23:12:37,902 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:40,321 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-21 11:54:00 to 2022-11-22 12:53:00
+2024-05-03 23:12:40,321 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:42,751 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-20 10:54:00 to 2022-11-21 11:53:00
+2024-05-03 23:12:42,751 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:45,224 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-19 09:54:00 to 2022-11-20 10:53:00
+2024-05-03 23:12:45,225 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:47,702 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-18 08:54:00 to 2022-11-19 09:53:00
+2024-05-03 23:12:47,702 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:50,158 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:50,831 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-17 07:54:00 to 2022-11-18 08:53:00
+2024-05-03 23:12:50,831 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:51,383 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:12:53,158 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-16 06:54:00 to 2022-11-17 07:53:00
+2024-05-03 23:12:53,158 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:55,630 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-15 05:54:00 to 2022-11-16 06:53:00
+2024-05-03 23:12:55,631 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:12:58,052 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-14 04:54:00 to 2022-11-15 05:53:00
+2024-05-03 23:12:58,052 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:00,504 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-13 03:54:00 to 2022-11-14 04:53:00
+2024-05-03 23:13:00,504 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:02,957 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-12 02:54:00 to 2022-11-13 03:53:00
+2024-05-03 23:13:02,958 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:05,414 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-11 01:54:00 to 2022-11-12 02:53:00
+2024-05-03 23:13:05,415 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:07,860 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:08,542 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-10 00:54:00 to 2022-11-11 01:53:00
+2024-05-03 23:13:08,542 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:09,107 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:13:10,877 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-08 23:54:00 to 2022-11-10 00:53:00
+2024-05-03 23:13:10,878 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:13,328 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-07 22:54:00 to 2022-11-08 23:53:00
+2024-05-03 23:13:13,328 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:15,770 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-06 21:54:00 to 2022-11-07 22:53:00
+2024-05-03 23:13:15,771 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:18,172 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-05 20:54:00 to 2022-11-06 21:53:00
+2024-05-03 23:13:18,173 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:20,665 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-04 19:54:00 to 2022-11-05 20:53:00
+2024-05-03 23:13:20,665 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:23,130 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-03 18:54:00 to 2022-11-04 19:53:00
+2024-05-03 23:13:23,131 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:25,574 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:26,267 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-02 17:54:00 to 2022-11-03 18:53:00
+2024-05-03 23:13:26,267 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:26,849 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:13:28,606 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-11-01 16:54:00 to 2022-11-02 17:53:00
+2024-05-03 23:13:28,607 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:31,099 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-31 15:54:00 to 2022-11-01 16:53:00
+2024-05-03 23:13:31,099 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:33,503 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-30 14:54:00 to 2022-10-31 15:53:00
+2024-05-03 23:13:33,504 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:35,974 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-29 13:54:00 to 2022-10-30 14:53:00
+2024-05-03 23:13:35,974 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:38,428 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-28 12:54:00 to 2022-10-29 13:53:00
+2024-05-03 23:13:38,428 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:40,889 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-27 11:54:00 to 2022-10-28 12:53:00
+2024-05-03 23:13:40,889 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:43,353 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:44,067 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-26 10:54:00 to 2022-10-27 11:53:00
+2024-05-03 23:13:44,067 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:44,642 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:13:46,417 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-25 09:54:00 to 2022-10-26 10:53:00
+2024-05-03 23:13:46,417 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:48,882 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-24 08:54:00 to 2022-10-25 09:53:00
+2024-05-03 23:13:48,882 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:51,359 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-23 07:54:00 to 2022-10-24 08:53:00
+2024-05-03 23:13:51,360 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:53,813 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-22 06:54:00 to 2022-10-23 07:53:00
+2024-05-03 23:13:53,814 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:56,263 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-21 05:54:00 to 2022-10-22 06:53:00
+2024-05-03 23:13:56,264 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:13:58,728 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-20 04:54:00 to 2022-10-21 05:53:00
+2024-05-03 23:13:58,728 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:01,186 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:01,885 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-19 03:54:00 to 2022-10-20 04:53:00
+2024-05-03 23:14:01,885 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:02,465 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:14:04,246 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-18 02:54:00 to 2022-10-19 03:53:00
+2024-05-03 23:14:04,247 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:06,707 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-17 01:54:00 to 2022-10-18 02:53:00
+2024-05-03 23:14:06,708 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:09,155 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-16 00:54:00 to 2022-10-17 01:53:00
+2024-05-03 23:14:09,155 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:11,654 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-14 23:54:00 to 2022-10-16 00:53:00
+2024-05-03 23:14:11,654 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:14,134 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-13 22:54:00 to 2022-10-14 23:53:00
+2024-05-03 23:14:14,135 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:16,488 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-12 21:54:00 to 2022-10-13 22:53:00
+2024-05-03 23:14:16,488 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:18,953 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:19,636 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-11 20:54:00 to 2022-10-12 21:53:00
+2024-05-03 23:14:19,636 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:20,219 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:14:22,007 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-10 19:54:00 to 2022-10-11 20:53:00
+2024-05-03 23:14:22,007 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:24,471 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-09 18:54:00 to 2022-10-10 19:53:00
+2024-05-03 23:14:24,472 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:26,930 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-08 17:54:00 to 2022-10-09 18:53:00
+2024-05-03 23:14:26,930 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:29,423 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-07 16:54:00 to 2022-10-08 17:53:00
+2024-05-03 23:14:29,423 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:31,885 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-06 15:54:00 to 2022-10-07 16:53:00
+2024-05-03 23:14:31,886 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:34,370 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-05 14:54:00 to 2022-10-06 15:53:00
+2024-05-03 23:14:34,371 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:36,859 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:37,572 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-04 13:54:00 to 2022-10-05 14:53:00
+2024-05-03 23:14:37,572 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:38,157 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:14:39,930 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-03 12:54:00 to 2022-10-04 13:53:00
+2024-05-03 23:14:39,930 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:42,411 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-02 11:54:00 to 2022-10-03 12:53:00
+2024-05-03 23:14:42,412 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:44,906 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-10-01 10:54:00 to 2022-10-02 11:53:00
+2024-05-03 23:14:44,906 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:47,309 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-30 09:54:00 to 2022-10-01 10:53:00
+2024-05-03 23:14:47,310 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:49,786 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-29 08:54:00 to 2022-09-30 09:53:00
+2024-05-03 23:14:49,786 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:52,258 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-28 07:54:00 to 2022-09-29 08:53:00
+2024-05-03 23:14:52,258 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:54,734 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:55,475 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-27 06:54:00 to 2022-09-28 07:53:00
+2024-05-03 23:14:55,475 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:14:56,097 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:14:57,885 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-26 05:54:00 to 2022-09-27 06:53:00
+2024-05-03 23:14:57,885 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:00,342 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-25 04:54:00 to 2022-09-26 05:53:00
+2024-05-03 23:15:00,342 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:02,820 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-24 03:54:00 to 2022-09-25 04:53:00
+2024-05-03 23:15:02,820 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:05,312 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-23 02:54:00 to 2022-09-24 03:53:00
+2024-05-03 23:15:05,312 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:07,796 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-22 01:54:00 to 2022-09-23 02:53:00
+2024-05-03 23:15:07,796 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:10,301 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-21 00:54:00 to 2022-09-22 01:53:00
+2024-05-03 23:15:10,301 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:12,788 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:13,529 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-19 23:54:00 to 2022-09-21 00:53:00
+2024-05-03 23:15:13,529 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:14,150 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:15:15,936 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-18 22:54:00 to 2022-09-19 23:53:00
+2024-05-03 23:15:15,936 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:18,456 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-17 21:54:00 to 2022-09-18 22:53:00
+2024-05-03 23:15:18,456 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:20,963 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-16 20:54:00 to 2022-09-17 21:53:00
+2024-05-03 23:15:20,963 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:23,491 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-15 19:54:00 to 2022-09-16 20:53:00
+2024-05-03 23:15:23,491 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:25,998 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-14 18:54:00 to 2022-09-15 19:53:00
+2024-05-03 23:15:25,998 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:28,512 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-13 17:54:00 to 2022-09-14 18:53:00
+2024-05-03 23:15:28,512 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:30,945 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:31,633 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-12 16:54:00 to 2022-09-13 17:53:00
+2024-05-03 23:15:31,633 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:32,243 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:15:33,993 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-11 15:54:00 to 2022-09-12 16:53:00
+2024-05-03 23:15:33,993 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:36,407 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-10 14:54:00 to 2022-09-11 15:53:00
+2024-05-03 23:15:36,408 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:38,901 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-09 13:54:00 to 2022-09-10 14:53:00
+2024-05-03 23:15:38,902 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:41,415 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-08 12:54:00 to 2022-09-09 13:53:00
+2024-05-03 23:15:41,415 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:43,920 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-07 11:54:00 to 2022-09-08 12:53:00
+2024-05-03 23:15:43,920 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:46,418 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-06 10:54:00 to 2022-09-07 11:53:00
+2024-05-03 23:15:46,418 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:48,939 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:49,620 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-05 09:54:00 to 2022-09-06 10:53:00
+2024-05-03 23:15:49,620 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:50,254 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:15:52,033 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-04 08:54:00 to 2022-09-05 09:53:00
+2024-05-03 23:15:52,033 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:54,549 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-03 07:54:00 to 2022-09-04 08:53:00
+2024-05-03 23:15:54,549 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:57,072 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-02 06:54:00 to 2022-09-03 07:53:00
+2024-05-03 23:15:57,073 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:15:59,562 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-09-01 05:54:00 to 2022-09-02 06:53:00
+2024-05-03 23:15:59,562 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:02,071 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-31 04:54:00 to 2022-09-01 05:53:00
+2024-05-03 23:16:02,072 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:04,582 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-30 03:54:00 to 2022-08-31 04:53:00
+2024-05-03 23:16:04,582 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:07,015 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:07,744 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-29 02:54:00 to 2022-08-30 03:53:00
+2024-05-03 23:16:07,744 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:08,376 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:16:10,174 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-28 01:54:00 to 2022-08-29 02:53:00
+2024-05-03 23:16:10,175 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:12,678 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-27 00:54:00 to 2022-08-28 01:53:00
+2024-05-03 23:16:12,678 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:15,186 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-25 23:54:00 to 2022-08-27 00:53:00
+2024-05-03 23:16:15,186 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:17,703 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-24 22:54:00 to 2022-08-25 23:53:00
+2024-05-03 23:16:17,704 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:20,237 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-23 21:54:00 to 2022-08-24 22:53:00
+2024-05-03 23:16:20,237 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:22,753 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-22 20:54:00 to 2022-08-23 21:53:00
+2024-05-03 23:16:22,753 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:25,267 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:26,019 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-21 19:54:00 to 2022-08-22 20:53:00
+2024-05-03 23:16:26,019 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:26,651 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:16:28,453 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-20 18:54:00 to 2022-08-21 19:53:00
+2024-05-03 23:16:28,453 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:30,977 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-19 17:54:00 to 2022-08-20 18:53:00
+2024-05-03 23:16:30,977 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:33,488 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-18 16:54:00 to 2022-08-19 17:53:00
+2024-05-03 23:16:33,488 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:36,009 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-17 15:54:00 to 2022-08-18 16:53:00
+2024-05-03 23:16:36,009 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:38,528 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-16 14:54:00 to 2022-08-17 15:53:00
+2024-05-03 23:16:38,528 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:41,050 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-15 13:54:00 to 2022-08-16 14:53:00
+2024-05-03 23:16:41,050 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:43,597 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:44,309 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-14 12:54:00 to 2022-08-15 13:53:00
+2024-05-03 23:16:44,310 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:44,959 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:16:46,712 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-13 11:54:00 to 2022-08-14 12:53:00
+2024-05-03 23:16:46,713 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:49,199 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-12 10:54:00 to 2022-08-13 11:53:00
+2024-05-03 23:16:49,199 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:51,714 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-11 09:54:00 to 2022-08-12 10:53:00
+2024-05-03 23:16:51,715 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:54,196 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-10 08:54:00 to 2022-08-11 09:53:00
+2024-05-03 23:16:54,196 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:56,641 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-09 07:54:00 to 2022-08-10 08:53:00
+2024-05-03 23:16:56,641 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:16:59,058 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-08 06:54:00 to 2022-08-09 07:53:00
+2024-05-03 23:16:59,058 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:01,659 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:02,391 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-07 05:54:00 to 2022-08-08 06:53:00
+2024-05-03 23:17:02,391 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:03,042 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:17:04,816 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-06 04:54:00 to 2022-08-07 05:53:00
+2024-05-03 23:17:04,817 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:07,345 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-05 03:54:00 to 2022-08-06 04:53:00
+2024-05-03 23:17:07,345 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:09,880 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-04 02:54:00 to 2022-08-05 03:53:00
+2024-05-03 23:17:09,880 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:12,442 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-03 01:54:00 to 2022-08-04 02:53:00
+2024-05-03 23:17:12,443 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:14,962 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-08-02 00:54:00 to 2022-08-03 01:53:00
+2024-05-03 23:17:14,963 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:17,521 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-31 23:54:00 to 2022-08-02 00:53:00
+2024-05-03 23:17:17,521 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:20,057 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:20,834 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-30 22:54:00 to 2022-07-31 23:53:00
+2024-05-03 23:17:20,834 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:21,490 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:17:23,280 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-29 21:54:00 to 2022-07-30 22:53:00
+2024-05-03 23:17:23,280 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:25,859 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-28 20:54:00 to 2022-07-29 21:53:00
+2024-05-03 23:17:25,859 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:28,442 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-27 19:54:00 to 2022-07-28 20:53:00
+2024-05-03 23:17:28,443 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:31,003 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-26 18:54:00 to 2022-07-27 19:53:00
+2024-05-03 23:17:31,004 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:33,532 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-25 17:54:00 to 2022-07-26 18:53:00
+2024-05-03 23:17:33,533 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:36,106 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-24 16:54:00 to 2022-07-25 17:53:00
+2024-05-03 23:17:36,106 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:38,679 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:39,460 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-23 15:54:00 to 2022-07-24 16:53:00
+2024-05-03 23:17:39,460 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:40,140 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:17:41,906 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-22 14:54:00 to 2022-07-23 15:53:00
+2024-05-03 23:17:41,907 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:44,384 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-21 13:54:00 to 2022-07-22 14:53:00
+2024-05-03 23:17:44,384 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:46,914 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-20 12:54:00 to 2022-07-21 13:53:00
+2024-05-03 23:17:46,914 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:49,401 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-19 11:54:00 to 2022-07-20 12:53:00
+2024-05-03 23:17:49,402 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:51,898 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-18 10:54:00 to 2022-07-19 11:53:00
+2024-05-03 23:17:51,898 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:54,410 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-17 09:54:00 to 2022-07-18 10:53:00
+2024-05-03 23:17:54,411 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:56,862 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:57,584 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-16 08:54:00 to 2022-07-17 09:53:00
+2024-05-03 23:17:57,585 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:17:58,253 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:18:00,008 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-15 07:54:00 to 2022-07-16 08:53:00
+2024-05-03 23:18:00,008 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:02,487 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-14 06:54:00 to 2022-07-15 07:53:00
+2024-05-03 23:18:02,487 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:04,920 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-13 05:54:00 to 2022-07-14 06:53:00
+2024-05-03 23:18:04,920 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:07,374 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-12 04:54:00 to 2022-07-13 05:53:00
+2024-05-03 23:18:07,375 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:09,946 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-11 03:54:00 to 2022-07-12 04:53:00
+2024-05-03 23:18:09,946 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:12,508 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-10 02:54:00 to 2022-07-11 03:53:00
+2024-05-03 23:18:12,509 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:15,074 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:15,869 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-09 01:54:00 to 2022-07-10 02:53:00
+2024-05-03 23:18:15,869 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:16,555 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:18:18,338 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-08 00:54:00 to 2022-07-09 01:53:00
+2024-05-03 23:18:18,338 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:20,939 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-06 23:54:00 to 2022-07-08 00:53:00
+2024-05-03 23:18:20,939 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:23,489 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-05 22:54:00 to 2022-07-06 23:53:00
+2024-05-03 23:18:23,489 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:26,061 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-04 21:54:00 to 2022-07-05 22:53:00
+2024-05-03 23:18:26,062 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:28,662 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-03 20:54:00 to 2022-07-04 21:53:00
+2024-05-03 23:18:28,662 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:31,227 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-02 19:54:00 to 2022-07-03 20:53:00
+2024-05-03 23:18:31,227 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:33,796 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:34,596 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-07-01 18:54:00 to 2022-07-02 19:53:00
+2024-05-03 23:18:34,596 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:35,284 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:18:37,057 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-30 17:54:00 to 2022-07-01 18:53:00
+2024-05-03 23:18:37,058 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:39,637 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-29 16:54:00 to 2022-06-30 17:53:00
+2024-05-03 23:18:39,637 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:42,163 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-28 15:54:00 to 2022-06-29 16:53:00
+2024-05-03 23:18:42,163 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:44,740 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-27 14:54:00 to 2022-06-28 15:53:00
+2024-05-03 23:18:44,740 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:47,328 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-26 13:54:00 to 2022-06-27 14:53:00
+2024-05-03 23:18:47,328 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:49,943 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-25 12:54:00 to 2022-06-26 13:53:00
+2024-05-03 23:18:49,943 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:52,536 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:53,385 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-24 11:54:00 to 2022-06-25 12:53:00
+2024-05-03 23:18:53,386 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:54,077 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:18:55,851 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-23 10:54:00 to 2022-06-24 11:53:00
+2024-05-03 23:18:55,851 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:18:58,436 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-22 09:54:00 to 2022-06-23 10:53:00
+2024-05-03 23:18:58,436 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:19:01,044 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-21 08:54:00 to 2022-06-22 09:53:00
+2024-05-03 23:19:01,044 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:19:03,614 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-20 07:54:00 to 2022-06-21 08:53:00
+2024-05-03 23:19:03,614 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:19:06,197 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-19 06:54:00 to 2022-06-20 07:53:00
+2024-05-03 23:19:06,197 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:19:08,804 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-18 05:54:00 to 2022-06-19 06:53:00
+2024-05-03 23:19:08,804 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:19:11,384 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:19:12,201 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-17 04:54:00 to 2022-06-18 05:53:00
+2024-05-03 23:19:12,201 INFO :: Writing data symbol = BTCUSDT
+2024-05-03 23:19:12,898 INFO :: No new data, nothing to write for symbol BTCUSDT
+2024-05-03 23:19:14,671 INFO :: Binance BTCUSDT: Collected 1500 older data from 2022-06-16 03:54:00 to 2022-06-17 04:53:00
+2024-05-03 23:19:14,671 INFO :: Writing data symbol = BTCUSDT

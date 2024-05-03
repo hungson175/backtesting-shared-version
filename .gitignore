@@ -1,0 +1,24 @@
+/backtesting_cpp/build/
+/backtesting_cpp/cmake-build-debug/
+/trade*.txt
+/data/*.h5
+/bak/
+/__pycache__/*
+/*/__pycache__/*
+*.lock
+
+# Ignore pycharm files
+.idea/
+*.iml
+*.ipr
+
+# Ignore build files
+/build/
+
+# Ignore environment files
+.env
+
+# Ignore virtual environment
+venv/
+
+
