@@ -95,8 +95,8 @@ if __name__ == '__main__':
         strategy = "single_ma_long"
         time_frame = "4h"
         pnl, max_dd = backtester.run(exchange="Binance", symbol="BTCUSDT", strategy=strategy, tf=time_frame,
-                                     from_time=utils.date_to_ms("2024/01/01"),
-                                     to_time=utils.date_to_ms("2024/12/31"))
+                                     from_time=utils.date_to_ms("2023/01/01"),
+                                     to_time=utils.date_to_ms("2023 /12/31"))
 
         logger.info("PNL = %s , drawndown = %s", pnl, max_dd)
 
